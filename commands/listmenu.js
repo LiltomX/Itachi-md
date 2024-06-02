@@ -19,7 +19,7 @@
 //Instagram: BRYANT_TECH.1
 //Telegram: t.me/𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮
 //GitHub: @BryantXtech
-//WhatsApp: +9231840
+//WhatsApp: 94789178807
 //   * Created By Github: 𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮.
 //   * Credit To MY SELF
 //   * © 2024 ITACHI-MD.

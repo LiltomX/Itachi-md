@@ -11,10 +11,10 @@
 <a href="https://github.com/BryantXtech/Itachi-md"><img title="Author" src="https://img.shields.io/badge/ITACHI-MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/BryantXtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/BryantXtech/Itachi-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/BryantXtech/Itachi-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/BryantXtech/Itachi-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/BryantXtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BryantXtech?label=Followers&style=social"></a>
+<a href="https://github.com/BryantXtech/Itachi-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/BryantXtech/Itachi-Md?&style=social"></a>
+<a href="https://github.com/BryantXtech/Itachi-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BryantXtech/Itachi-Md?style=social"></a>
+<a href="https://github.com/BryantXtech/Itachi-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BryantXtech/Itachi-Md?label=Watching&style=social"></a>
   
 ***
 

@@ -43,8 +43,10 @@
 
 
 ### [THANKS TO] 
-   [WHIZBOT1]
+    [WHIZBOT1]
+    
     [VIDUSHAN]
+    
     [D4X UMAR]
     
 ### CONTRIBUTIONS

@@ -65,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FLASH-MD by France King is alive*`
+ *ITACHI-MD by Bryant Tech is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -83,7 +83,7 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        repondre("😈😈 Menu erreur " + e);
     }
 } 
 else {
@@ -95,12 +95,12 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
+      await   repondre("Hey fool dont forget that you have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake things :)")
      }
  } else {
 
-    if(!superUser) { repondre ("Only the owner can  modify the alive") ; return};
+    if(!superUser) { repondre ("This is for only my sexy🥰🥵 Bryant🤩😘") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -110,7 +110,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('message alive refresh successfully')
+repondre('message alive refresh successfully and you have successfully gotten sense😶😶')
 
 }
     });

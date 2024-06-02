@@ -8,7 +8,7 @@
     <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/15dfd4b173aff25fce4b4.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BryantXtech/Itachi-md"><img title="Author" src="https://img.shields.io/badge/ITACHI-MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/BryantXtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>

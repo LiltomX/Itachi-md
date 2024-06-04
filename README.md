@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/BryantXtech/Itachi-md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://bryant-tech-bot-6caf875ac89b.herokuapp.com) Or [`PAIRING CODE`](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)***
 
 *-Copy The Session ID to paste it in Heroku*
 

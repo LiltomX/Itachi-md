@@ -59,7 +59,7 @@
 ### LICENSE 
 -The Itachi-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the Itachi-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
@@ -71,7 +71,7 @@
 
 
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
-- [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
+- [***BRYAN TECH***](https://github.com/Bryanlover1) For several Cmds Addition.
+- [***UMAR***](https://github.com/D4X-UMAR) For Genaral Help and Session Generation
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
 

@@ -154,7 +154,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking┗━━━┓
+┏━━━┛ ITACHI-MD Ranking┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     

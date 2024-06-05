@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ITACHI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;YOU'RE+CAUGHT+UNDER+MY+GENJUTSU" alt="Typing SVG" /></a>
   </p>
-    <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/15dfd4b173aff25fce4b4.jpg">
+    <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/5777d0b39c21c46c9b2f4.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/BryantXtech/Itachi-md"><img title="Author" src="https://img.shields.io/badge/ITACHI-MD-black?style=for-the-badge&logo=github"></a>

@@ -72,7 +72,7 @@ createCanvacordCommand("affect", canvacord.Canvacord.affect);
         createCanvacordCommand("facepalm", canvacord.Canvacord.facepalm);
         createCanvacordCommand("greyscale", canvacord.Canvacord.greyscale);
         createCanvacordCommand("joke", canvacord.Canvacord.jokeOverHead);
-
+        createCanvacordCommand("hot", canvacord.Canvacord.hotSweating);
 
 
 

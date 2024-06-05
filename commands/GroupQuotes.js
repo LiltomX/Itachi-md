@@ -38,7 +38,7 @@ france({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *France King*`);
+Powered by *Bryant tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -56,7 +56,7 @@ Powered by *France King*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *FLASH-MD*`);
+Powered by *ITACHI-MD*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);

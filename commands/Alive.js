@@ -95,7 +95,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("Hey fool dont forget that you have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
+      await   repondre("Hey sexy ❤️‍🔥🫡🥵 dont forget that you have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake things :)")
      }
  } else {

@@ -115,7 +115,8 @@ const devinettes = [
     question: "I'm hard to grasp, but you will hold me in your hand when you find me. Who am I ?",
     reponse: "Your breath",
   },
-  ];
+  { 
+    question: "Im a very stupid but i dont know. Who im I?
   
 france({ nomCom: "riddle", categorie: "Games" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre } = commandeOptions;

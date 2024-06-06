@@ -100,7 +100,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("This is for only my sexy🥰🥵 Bryant🤩😘") ; return};
+    if(!superUser) { repondre ("This is for only my sexy🥰🥵 Owner🤩😘") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];

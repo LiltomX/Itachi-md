@@ -166,7 +166,7 @@ france( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑  ┍━✿━┙`
+   ┕━✿━┑❣️┍━✿━┙`
     
      zk.sendMessage( 
         dest,
@@ -230,7 +230,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking ┗━━━┓
+┏━━━┛ ITACHI-MD Ranking ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -242,7 +242,7 @@ france( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑  ┍━✿━┙`
+   ┕━✿━┑ ❣️ ┍━✿━┙`
     
      zk.sendMessage( 
         dest,

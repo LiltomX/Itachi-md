@@ -166,7 +166,7 @@ france({
       // Si la requête a réussi, envoyez l'image résultante
       
       let stickerMess = new Sticker(response.data.result, {
-        pack: FLASH-MD,
+        pack: ITACHI-MD,
         type: StickerTypes.CROPPED,
         categories: ["🤩", "🎉"],
         id: "12345",

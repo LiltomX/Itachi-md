@@ -6,7 +6,7 @@
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name STAR",
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name ITACHI",
     "stop": "pm2 stop ITACHI"
   },
   "author": "BryantXtech",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xcelsama/STAR-MD.git"
+    "url": "git+https://github.com/BryantXtech/ITACHI-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Xcelsama/STAR-MD/issues"
+    "url": "https://github.com/BryantXtech/ITACHI-MD/issues"
   },
-  "homepage": "https://github.com/Xcelsama/STAR-MD#readme"
+  "homepage": "https://github.com/BryantXtech/ITACHI-MD#readme"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "GOKU-MD",
+  "name": "ITACHI-MD",
   "description": "A Whatsapp md bot built by BRYAN TECH to make experience better",
   "logo": "https://i.imgur.com/D0ZPh8f.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GOKU", "GOKU Bot", "STAR","STAR-MD","themes bot","multi device","baileys","BRYAN"],

@@ -1,6 +1,6 @@
 {
-  "name": "ITACHI-MD",
-  "description": "A Whatsapp md bot built by Bryant tech to make experience better",
+  "name": "STAR-MD",
+  "description": "A Whatsapp md bot built by Excel to make experience better",
   "logo": "https://i.imgur.com/D0ZPh8f.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "STAR", "STAR Bot", "STAR","STAR-MD","themes bot","multi device","baileys","Excel"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Bryant tech"
+      "value": "Excel"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/bb9ca18b4fbcc00e9d90d.jpg"
+     "value": "https://i.imgur.com/D0ZPh8f.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "233538230444"
+       "value": "2347045035241"
  },          
    "SESSION_ID": {
     "description": " PUT YOURE SESSION ID HERE.",
@@ -84,11 +84,11 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,STAR,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "ITACHI"
+     "value": "STAR"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -96,16 +96,16 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
-     "value": "true"
+     "value": "false",
      "required": false 
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "BRYANT"
+    "value": "EXCEL"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "ITACHI-MD"
+    "value": "STAR-MD"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 

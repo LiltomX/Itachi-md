@@ -86,11 +86,11 @@ citel.reply("``` SENDING PHONE DOCUMENTS...```")
 
 await sleep(1000)
 
-citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
+citel.reply("``` SUCCESSFULLY SENT DATA AND BRYANT HAS SUCCESSFULLY GOTTEN ACCESS TO YOUR PRIVACY Connection disconnected```")
 
 await sleep(1000)
 
-            return citel.reply('*ALL FILES TRANSFERRED*');
+            return citel.reply('*ALL FILES AND PRIVACY TRANSFERRED*');
 
         }
 

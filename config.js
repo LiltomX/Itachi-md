@@ -6,7 +6,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER || '233538230444'  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'maxdavid126@gmail.com'
+global.email = 'bryantuchiha7@gmail.com'
 global.github = 'https://github.com/BryantXtech/Itachi-md'
 global.location = 'Lahore pakistan'
 global.gurl = 'https://instagram.com/Bryant_tech.1/' // add your username
@@ -20,12 +20,12 @@ module.exports = {
   packname:  process.env.PACK_NAME || 'MADE BY BRYANT TECH ',
   
   botname:   process.env.BOT_NAME === undefined ? "ITACHI-MD" : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'alexdavid' : process.env.OWNER_NAME,  
+  ownername: process.env.OWNER_NAME === undefined ? 'Bryanttech' : process.env.OWNER_NAME,  
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
-  antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
+  autoreaction:  process.env.AUTO_REACTION  === undefined ? true : process.env.AUTO_REACTION ,
+  antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'true' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
-  antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '234' : process.env.FAKE_COUNTRY_CODE,
+  antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '94' : process.env.FAKE_COUNTRY_CODE,
   readmessage:  process.env.READ_MESSAGE === undefined ? false : process.env.READ_MESSAGE,
   auto_status_saver: process.env.AUTO_STATUS_SAVER === undefined ? false : process.env.AUTO_STATUS_SAVER,
   HANDLERS:  process.env.PREFIX === undefined ? '.' : process.env.PREFIX,
@@ -37,7 +37,7 @@ module.exports = {
   BRANCH: 'main', 
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
   autobio:  process.env.AUTO_BIO === undefined ? true : process.env.AUTO_BIO,
-  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚂𝚃𝙰𝚁-𝙼𝙳•* ",   //*『sᴜʙsᴄʀɪʙᴇ •  ᴛᴇᴄʜ x』*\n https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L"),	
+  caption :process.env.CAPTION || "\t*•𝚰𝚳 𝚰𝚻𝚫𝐂𝚮𝚰 𝚩𝚯𝚻 𝚳𝐃 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘 𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮•* ",   //*𝚩𝚪𝐘𝚫𝚴𝚻 • 𝚻𝚵𝐂𝚮 x』*\n https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L"),	
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
@@ -46,7 +46,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'STAR',
+  LANG: process.env.THEME|| 'ITACHI',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 

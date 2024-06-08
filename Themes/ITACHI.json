@@ -5,7 +5,7 @@
     "LANGCODE": "en",
     "STRINGS": {
     "updater": {
-    "UPDATE": "Your bot is already  on latest version Star",
+    "UPDATE": "Your bot is already  on latest version Itachi",
     "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
     "UPDATED_LOCAL": "Fresh Updates Installed!"
     },
@@ -30,8 +30,8 @@
     "gif7": "https://i.ibb.co/cTYgg07/309a8a92ec732b1ef9b44602b3d7043e.gif",
     "greet" : "Hi, There Itachi",
     "dotbody" : "Stop me if you can.",
-    "promote": "A new worthy Star arrived",
-    "pmallow": "Hii,This is STAR\n*Master pretty occupied.*\n seems like he is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+    "promote": "A new worthy SHINOBI arrived",
+    "pmallow": "Hii,This is ITACHI\n*Master pretty occupied.*\n seems like he is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
     "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮_",
     "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮*",
     "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ITACHI-𝙈𝘿",
@@ -39,10 +39,10 @@
     "demote": "You are not Worthy like i imagined",
     "antlink": "Link Detected.\n*Good Bye Worthless Star*",
     "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐓𝐀𝐑*",
-    "mention": " Please mention any user STAR",
+    "mention": " Please mention any user ITACHI",
     "title": "ITACHI",
     "footer": " ITACHI-𝐌𝐃",
-    "by": "Made by: CitelVoid",
+    "by": "Made by: Bryant tech",
     "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
     "success": "Success ✓",
     "dot": "Hello ITACHI, Why don't you try -help",

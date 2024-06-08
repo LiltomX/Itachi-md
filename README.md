@@ -1,6 +1,6 @@
  [`ℹ️FOLLOW FOR UPDATES`](https://github.com/BryantXtech) 
 </p>
-<a href="https://ibb.co/MBvWDD2"><img src="https://telegra.ph/file/5c89417cbf708a5a41775.jpg" alt="bedc8c36c17b243a89a73c3f5ee65404" border="0"></a>
+<a href="https://ibb.co/MBvWDD2"><img src="https://telegra.ph/file/29452ab209238c8307312.jpg" alt="bedc8c36c17b243a89a73c3f5ee65404" border="0"></a>
 <h1 align="center">  😈ITACHI-ＭＤ😈
 </p>
   

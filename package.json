@@ -1,15 +1,15 @@
 {
-  "name": "STAR-MD",
+  "name": "ITACHI-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Excel.",
+  "description": "Multi device whatsapp bot by Bryant.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name STAR",
-    "stop": "pm2 stop STAR"
+    "stop": "pm2 stop ITACHI"
   },
-  "author": "Xcelsama",
+  "author": "Bryant",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xcelsama/STAR-MD.git"
+    "url": "git+"
   },
   "bugs": {
-    "url": "https://github.com/Xcelsama/STAR-MD/issues"
+    "url": "https://github.com/BryantXtech/STAR-MD/issues"
   },
-  "homepage": "https://github.com/Xcelsama/STAR-MD#readme"
+  "homepage": "https://github.com/BryantXtech/ITACHI-MD#readme"
 }

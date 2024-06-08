@@ -19,7 +19,7 @@ const quizQuestions = [
     },
     {
         question: "WHO IS THE OWNER OF STAR-MD?",
-        options: ["A. EXCEL", "B. Hexce", "C. Cexcel"],
+        options: ["A. BRYANT TECH", "B. BryantXtech", "C. Cexcel"],
         correctAnswer: "A"
     },
     {

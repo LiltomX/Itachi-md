@@ -39,7 +39,7 @@ cmd({
             let buttonMessaged = {
                 image: { url: 'https://star-md-qr-web-xcelsama-e29e85286f3a.herokuapp.com/' },
                 caption: `*_Scan Qr within 15 seconds_*\nYou'll get session id in your log number.`,
-                footer: ` Session bY >> ՏͲᎪᎡ-ᎷᎠ`,
+                footer: ` Session bY >> ITACHI-ᎷᎠ`,
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
@@ -338,7 +338,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*Ꭺ ᏴϴͲ ᎠᎬᏙᎬᏞϴᏢᎬᎠ ᏴᎽ ᎬХᏟᎬᏞ.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*Ꭺ ᏴϴͲ ᎠᎬᏙᎬᏞϴᏢᎬᎠ ᏴᎽ BRYANT.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._

@@ -1,6 +1,6 @@
 {
-  "name": "STAR-MD",
-  "description": "A Whatsapp md bot built by Excel to make experience better",
+  "name": "ITACHI-MD",
+  "description": "A Whatsapp md bot built by Bryant tech to make experience better",
   "logo": "https://i.imgur.com/D0ZPh8f.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "STAR", "STAR Bot", "STAR","STAR-MD","themes bot","multi device","baileys","Excel"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Excel"
+      "value": "Bryant tech"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.imgur.com/D0ZPh8f.jpg"
+     "value": "https://telegra.ph/file/bb9ca18b4fbcc00e9d90d.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2347045035241"
+       "value": "233538230444"
  },          
    "SESSION_ID": {
     "description": " PUT YOURE SESSION ID HERE.",
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,STAR,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "STAR"
+     "value": "ITACHI"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -96,16 +96,16 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
-     "value": "false",
+     "value": "true"
      "required": false 
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "EXCEL"
+    "value": "BRYANT"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "STAR-MD"
+    "value": "ITACHI-MD"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 

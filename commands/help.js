@@ -9,7 +9,7 @@ Secktor.cmd({
             let str = `
 ┏━━━━━•❃〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙❃•━━━━━┓`
             str += `
-┃ ⛥┏━━━━━•❃°•°•━━━━━•❃°•°•      
+┃ ⛥┏━━━━━•⚡°•°•━━━━━•°•°•      
 •͙͙✧User: ${citel.pushName}
 •͙͙✧Theme: ${tlang().title}
 •͙͙✧ Prefix: ${prefix}
@@ -19,7 +19,7 @@ Secktor.cmd({
 •͙͙✧Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 •͙͙✧𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐓𝐀𝐑-𝐌𝐃
 •͙͙✧⃝┗━━━━━•❃°•°•━━━━━•❃°•°•
-┗━━━━━•❃°•°•━━━━━•❃°•°•\n`
+┗━━━━━•⚡°•°•━━━━━•⚡°•°•\n`
 for (let i = 0; i < commands.length; i++) 
 {
      if(commands[i].pattern==undefined) continue
@@ -117,7 +117,7 @@ Secktor.cmd({
 │ ⏱️ Your Local Time: ${formattedTime} │
 │ ${location} Time: ${targetTime} │
 │                               │
-│ **Stay in sync with the world's clocks! **│𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐓𝐀𝐑-𝐌𝐃
+│ **Stay in sync with the world's clocks! **│𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮
 ╰─────── Time Travel Now? ⏳ ───────╯
     `;
 

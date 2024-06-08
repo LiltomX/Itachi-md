@@ -77,7 +77,7 @@ cmd({
 ✻ ═════ •❅• ═════ ✼
 ║ *🗂Content:* ${quoo.data.quote.body}
 ║ *👤Author:* ${quoo.data.quote.author}
-║ * 👨‍💻𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑:-𝐄𝐗𝐂𝐄𝐋
+║ * 👨‍💻𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑:-𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮
 ✻ ═════ •❅• ═════ ✼ `
 return citel.reply(replyf)
     }
@@ -105,8 +105,8 @@ return citel.reply(replyf)
 )
 //------------------------------------------------------------------
 cmd({
-  pattern: 'chatgpt',
-  desc: 'Ask the AI a question',
+  pattern: 'ITACHI',
+  desc: 'Ask  itachi a question',
   category: "AI",
   
 },
@@ -135,7 +135,7 @@ cmd({
   pattern: 'rizz',
   category: "fun",
   desc: 'Get a random pickup line',
-  react: '🙈',
+  react: '💚',
 },
 async (Void, citel) => {
   try {
@@ -188,7 +188,7 @@ cmd({
   pattern: 'insult',
   desc: 'Get a random insult',
   category: "fun",
-  react: '🤥',
+  react: '😈',
 },
 async (Void, citel) => {
   try {

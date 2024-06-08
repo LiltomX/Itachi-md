@@ -1,10 +1,10 @@
 const { tlang,cmd,getBuffer } = require('../lib')
 const Config = require('../config')
 const axios = require('axios')
-var nicetitle = '𝐄𝐗𝐂𝐄𝐋 𝐀𝐌𝐀𝐃𝐈'
+var nicetitle = '𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮'
 var nicebody = "|| ◁ㅤ❚❚ㅤ▷||ㅤ ↻"
-var niceurl = 'https://github.com/Xcelsama/STAR-MD'
-const nicepic = 'https://i.ibb.co/chtrhzs/Socialthumb.jpg';
+var niceurl = 'https://github.com/BryantXtech/Itachi-md'
+const nicepic = 'https://telegra.ph/file/ff495ba2f75b84c59ae7d.jpg';
 /*
 cmd({
     pattern: "mentionpreview",

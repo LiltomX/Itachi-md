@@ -18,8 +18,8 @@ const quizQuestions = [
         correctAnswer: "B"
     },
     {
-        question: "WHO IS THE OWNER OF STAR-MD?",
-        options: ["A. EXCEL", "B. Hexce", "C. Cexcel"],
+        question: "WHO IS THE OWNER OF ITACHI-MD?",
+        options: ["A. BRYANT TECH", "B. Hexce", "C. Cexcel"],
         correctAnswer: "A"
     },
     {

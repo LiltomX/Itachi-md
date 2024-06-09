@@ -47,7 +47,7 @@ If you find ITACHI-MD helpful, consider giving it a star ⭐ to show your apprec
 ❏GET SESSION ID 
 (SCAN-QR)           
  
-<a href="https://bryant-tech-bot-6caf875ac89b.herokuapp.com" target="_blank">
+<a href="https://fast-journey-63494-747dd17363bc.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=github" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
